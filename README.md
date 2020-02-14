@@ -16,7 +16,7 @@ The project contains one folder per domain studied in the main text of our paper
 
 **plotting**: loads data from the results folder and plots it, yielding the figures in our paper
 
-#Running experiments: example
+# Running experiments: example
 To train a PPO agent on the CarRacing environment, run the following command from the car_racing folder:
 
 ```
