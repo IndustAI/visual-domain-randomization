@@ -1,5 +1,5 @@
 # Domain Randomization
-Code associated with our paper <a href = "https://arxiv.org/abs/1910.10537">Robust Visual Domain Randomization for Reinforcement Learning</a>
+Code associated with our paper <a href = "https://arxiv.org/abs/1910.10537">Robust Domain Randomization for Reinforcement Learning</a>
 
 # Requirements
 
