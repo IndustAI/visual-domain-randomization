@@ -1,5 +1,5 @@
 # Domain Randomization
-Code associated with our paper <a href = "https://arxiv.org/abs/1910.10537">Robust Domain Randomization for Reinforcement Learning</a>
+Code associated with our paper <a href = "https://arxiv.org/abs/1910.10537">Robust Visual Domain Randomization for Reinforcement Learning</a>, which was accepted to the BeTR-RL Workshop at ICLR 2020.
 
 # Requirements
 
@@ -48,7 +48,7 @@ In this project, we compare three agents : *Normal*, *Regularized* and *Randomiz
 If you find this work or the associated paper useful, it can be cited as below.
 
 	@article{slaoui2019robust,
-	  title={Robust Domain Randomization for Reinforcement Learning},
+	  title={Robust Visual Domain Randomization for Reinforcement Learning},
 	  author={Slaoui, Reda Bahi and Clements, William R and Foerster, Jakob N and Toth, S{\'e}bastien},
 	  journal={arXiv preprint arXiv:1910.10537},
 	  year={2019}
